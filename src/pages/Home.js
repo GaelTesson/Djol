@@ -24,6 +24,7 @@ const Home = () => {
       className="absolute inset-0 bg-cover bg-center z-0"
       style={{ backgroundImage: `url(${Djol})`, 
               opacity: 0.7,
+              
     }}
     />
       </div>
